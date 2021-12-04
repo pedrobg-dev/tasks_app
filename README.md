@@ -1,2 +1,7 @@
 # tasks_app
-Tasks App
+
+Aplicacion web desarrollado con PHP, jQuery, Ajax, JavaScript 
+
+### Captura de aplicacion
+
+![Captura](imgs/img.jpg)
